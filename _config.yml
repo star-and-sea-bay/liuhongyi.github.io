@@ -3,11 +3,11 @@ title: StarAndSeaBay Blog
 SEOTitle: 星海湾的博客 | StarAndSeaBay Blog
 header-img: img/post-bg-desk.jpg
 email: hyliuchina999@gmail.com
-description: "Every failure is leading towards success."
+description: "和其光，同其尘。"
 keyword: "StarAndSeaBay Blog, 星海湾博客, 刘宏毅, hyliu, python,control"
 url: "http://star-and-sea-bay.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/star-and-sea-bay/star-and-sea-bay" # you code repository
+github_repo: "https://github.com/star-and-sea-bay/star-and-sea-bay.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -60,14 +60,14 @@ kramdown:
 # disqus_username: qiubaiying
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: star-and-sea-bay.github.io    #仓库名称
-  owner: star-and-sea-bay    #github用户名
-  admin: star-and-sea-bay
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+ # enable: true    #是否开启Gitalk评论
+  #clientID: f2c84e7629bb1446c1a4                            #生成的clientID
+  #clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  #repo: star-and-sea-bay.github.io    #仓库名称
+  #owner: star-and-sea-bay    #github用户名
+  #admin: star-and-sea-bay
+  #distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
