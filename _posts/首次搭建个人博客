@@ -4,7 +4,7 @@ title: My First Post #一级标题
 subtitle: Hello World, Hello Blog #副标题
 date: 2020-01-10
 author: StarAndSeaBay
-header-img: img/post-bg-2015.jpg  #文章的背景图片
+header-img: img/2020.jpg  #文章的背景图片
 catalog: ture  #是否归档
 tags:
     -learn
