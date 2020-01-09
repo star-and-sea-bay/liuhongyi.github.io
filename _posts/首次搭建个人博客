@@ -2,12 +2,12 @@
 layout: post #布局
 title: My First Post #一级标题
 subtitle: Hello World, Hello Blog #副标题
-date: 2020-1-10
-author: 星海湾
-header-img: img/blog.png
-catalog:ture
+date: 2020-01-10
+author: StarAndSeaBay
+header-img: img/post-bg-2015.jpg  #文章的背景图片
+catalog: ture  #是否归档
 tags:
-    -生活
+    -learn
 ---
 ## Hey
 >这是我的第一篇博客，尝试上传文章。
