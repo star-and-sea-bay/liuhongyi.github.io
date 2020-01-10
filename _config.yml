@@ -1,9 +1,9 @@
 # Site settings
 title: StarAndSeaBay Blog
 SEOTitle: 星海湾的博客 | StarAndSeaBay Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/tree.jpg
 email: hyliuchina999@gmail.com
-description: "和其光，同其尘。"
+description: "合其光，同其尘。"
 keyword: "StarAndSeaBay Blog, 星海湾博客, 刘宏毅, hyliu, python,control"
 url: "http://star-and-sea-bay.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
